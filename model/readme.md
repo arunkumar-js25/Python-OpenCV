@@ -1,5 +1,4 @@
 deploy.prototxt
 res10_300x300_ssd_iter_140000.caffemodel
 
-pending upload:
-shape_predictor_68_face_landmarks.dat
+pending upload: shape_predictor_68_face_landmarks.dat
